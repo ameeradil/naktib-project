@@ -1,6 +1,6 @@
 # Naktib ⌨️🇸🇦
 
-**Naktib** is a web-based Arabic typing tutor to help users improve their typing speed and accuracy.
+**Naktib** is a web-based Arabic typing tutor to help users improve their typing speed and accuracy. in arabic the word naktib means write together
 
 🌐 **Live Website:** [https://ameeradil.github.io/naktib/](https://ameeradil.github.io/naktib-project/)
 
